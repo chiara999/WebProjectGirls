@@ -1,0 +1,17 @@
+h1 {
+  color: violet;
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 50px;
+  text-decoration: underline;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-bottom: 5px;
+}
+
+li {
+  color: pink;
+}
+
+ul li {
+  color: pink;
+}
